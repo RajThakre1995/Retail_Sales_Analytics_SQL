@@ -50,24 +50,6 @@ This analysis helps the company:
 
 Rajendra Thakre
 
-2️⃣ PROJECT_STRUCTURE.md
-Retail-Sales-Analytics-SQL/
-│
-├── README.md
-├── dataset/
-│   ├── sales_transaction.csv
-│   ├── product_inventory.csv
-│   └── customer_profiles.csv
-│
-├── sql_queries/
-│   ├── 01_data_cleaning.sql
-│   ├── 02_product_analysis.sql
-│   ├── 03_customer_analysis.sql
-│   └── 04_sales_trend.sql
-│
-└── insights/
-    └── business_insights.md
-3️⃣ business_insights.md
 📈 Key Findings
 🔥 Product Insights
 
